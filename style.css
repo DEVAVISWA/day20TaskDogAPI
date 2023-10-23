@@ -1,0 +1,34 @@
+body{
+    background-color:rgba(174, 212, 173, 0.625);
+}
+
+.dog{
+    padding: 10px;
+}
+
+.row{
+    padding: 50px;
+    margin: 20px;    
+}
+
+img{
+    width: 200px;
+    height: 200px;    
+}
+
+button{
+    text-align: center;
+    margin: 30px;
+}
+
+.design{    
+    padding: 50px;        
+    border: 2px dotted rgb(3, 3, 3);
+    margin: 20px;
+}
+
+h1{
+    text-align: center;
+    background-color: rgba(232, 68, 166, 0.258);    
+    padding: 30px;
+}
